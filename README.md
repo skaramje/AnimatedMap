@@ -1,6 +1,8 @@
 # AnimatedMap
 
-This project creates weather stations dynamically on a map.  The code allows you to pick any country and display the stations in that country.  To pick a country, change the country code on line 24 of Plot.js.  The code for countries can be found in data.js file.  
+This project creates weather stations dynamically on a map.  The code allows you to pick any country and display the stations in that country.  
+
+To pick a country, change the country code on line 24 of Plot.js.  The code for countries can be found in data.js file.  
 
 The weather stations were obtained from the openweathermap.org api.  
 
