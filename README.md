@@ -16,4 +16,4 @@ Support: For any questions, message me on linkedin: https://www.linkedin.com/in/
 
 Roadmap: The aim is to make a dynamic map that displays weather data as layers and updates every few minutes
 
-License information: This code is the property of MITxPRO.  
+License information: This project is licensed under the MIT License.
