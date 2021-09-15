@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Temperature across cities</title>
+        <meta name='viewport' content='initial-scale=1, maximum-scale=1, user-scalable=no' />
+        <script src="data.js"></script>
+        <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+        <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css">
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body>
+        
+    <div id = "map"></div>
+    <div class="map-overlay top">
+        <button styles = "font-size: 2em;" onclick="display()">
+            Show all temperature measurements nearby
+        </button>
+    </div>
+
+    <script src="PlotTemperature.js"></script>
+    </body>
+</html>
