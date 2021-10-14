@@ -12,7 +12,7 @@ Installation: Save the html, css, javascript and data.js files in one folder.  D
 
 Usage: Click on the button on the chrome browser to get it to display
 
-Support: For any questions, message me on linkedin: https://www.linkedin.com/in/simrat-karamjeet-8309784/
+Support: For any questions, message me on [linkedin](https://www.linkedin.com/in/simrat-karamjeet/)
 
 Roadmap: The aim is to make a dynamic map that displays weather data as layers and updates every few minutes
 
